@@ -244,6 +244,19 @@ EASYLink/
 
 ---
 
+## ⚠️ Safety & Legal Disclaimer
+
+> **IMPORTANT**: Autonomous and remotely piloted aerial systems involve inherent operational risks to property, personnel, and airspace safety.
+
+1. **Use at Your Own Risk**: `EASYLink` is provided on an **"AS IS"** and **"AS AVAILABLE"** basis without warranties of any kind, whether express, implied, statutory, or otherwise, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+2. **No Operational Liability**: Under no circumstances shall **TheDronePulseLab**, its authors, maintainers, or contributors be held liable for any direct, indirect, incidental, special, consequential, or punitive damages (including, without limitation, vehicle crashes, hardware damage, loss of control, flight controller failure, property damage, personal injury, or regulatory fines) arising out of the use or inability to use this software.
+3. **Operator Responsibility**: The pilot in command / software operator assumes **100% full responsibility** for:
+   - Thoroughly testing all flight scripts in safe SITL simulation environments prior to real hardware deployment.
+   - Maintaining physical manual override controls (RC Transmitter / Hardware Kill Switch) at all times during flight.
+   - Ensuring strict compliance with applicable civil aviation rules and regulations (FAA, EASA, DGCA, etc.) in your flight jurisdiction.
+
+---
+
 <div align="center">
 
 <br/>
